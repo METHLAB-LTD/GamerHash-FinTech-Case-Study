@@ -24,19 +24,13 @@ Currently bitcoin mining is still a niche area, with few people having interest 
 
 ## Results
 
-* What has been the business impact of this company so far?
+Gamerhash's social media account reported over 650,000 million users as of the end of 2021.*(https://twitter.com/gamerhashcom?lang=en)* 
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+Gamerhash is a small, privately run firm, so there are no SEC disclosures to review for profitability. We can make the assesment that GamerHash's profits are closely tied to the current market rate of Bitcoin. 
 
-* How is your company performing relative to competitors in the same domain?
+The retail Bitcoin mining market has slowed in growth in recent years due to the increasing computational requirement of mining and global shortage of GPUs, the fate of companies like NiceHash and GamerHash depend on the continued mainstream adoption of cryptocurrency, and the evaluation of Bitcoin
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+A continued semiconductor storage, and increasing price of GPUs, do present GamerHash an opportunity to provide a way for gamers to monetize their computer's idle processing power. The prospects of GamerHash and mining companies depend on the continued adoption of Bitcoin, and continued growth of Bitcoin evaluation's going in 2022
